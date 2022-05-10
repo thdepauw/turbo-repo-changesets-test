@@ -6,5 +6,8 @@
     "question": "1.1.0",
     "talk": "1.1.0"
   },
-  "changesets": []
+  "changesets": [
+    "brown-beds-press",
+    "great-keys-invent"
+  ]
 }
