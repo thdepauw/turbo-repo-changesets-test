@@ -1,5 +1,6 @@
 const hello = require("talk");
-const whatsYourName = require("question");
+const questions = require("question");
 
 hello();
-whatsYourName();
+questions.whatsYourName();
+questions.howAreYou();
