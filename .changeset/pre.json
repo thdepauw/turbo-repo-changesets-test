@@ -1,0 +1,10 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "hello-bot": "1.0.1",
+    "question": "1.1.0",
+    "talk": "1.1.0"
+  },
+  "changesets": []
+}
