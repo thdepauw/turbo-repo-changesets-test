@@ -1,0 +1,27 @@
+{
+  "name": "turbo-repo-changesets-test",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run dev --workspace=hello-bot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thdepauw/turbo-repo-changesets-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thdepauw/turbo-repo-changesets-test/issues"
+  },
+  "homepage": "https://github.com/thdepauw/turbo-repo-changesets-test#readme",
+  "dependencies": {
+    "turbo": "^1.2.8"
+  }
+}
