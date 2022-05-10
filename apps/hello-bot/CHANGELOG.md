@@ -11,6 +11,13 @@
 - Updated dependencies [9d2ecef]
   - question@2.0.0-next.0
 
+## 1.0.2
+
+### Patch Changes
+
+- Updated dependencies
+  - question@1.1.1
+
 ## 1.0.1
 
 ### Patch Changes

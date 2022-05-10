@@ -6,6 +6,12 @@
 
 - 9d2ecef: Changed export structure to support multiple cmds
 
+## 1.1.1
+
+### Patch Changes
+
+- Remove offencive sentence
+
 ## 1.1.0
 
 ### Minor Changes
